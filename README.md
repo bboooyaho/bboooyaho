@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center"><b>📚 Languages 📚</b></h3>
+<h3 align="center"><b>📚 Skiles 📚</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
